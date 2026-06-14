@@ -1,0 +1,52 @@
+STITCHHUB DOCUMENTATION FILES
+==============================
+
+All documentation files are located in the 'docs' folder.
+
+MODELS DOCUMENTATION (13 files)
+Location: docs/models/
+
+1. user_model.md
+2. tailor_model.md
+3. order_model.md
+4. payment_model.md
+5. appointment_model.md
+6. measurement_model.md
+7. review_model.md
+8. message_model.md
+9. address_model.md
+10. order_tracking_model.md
+11. customer_visit_model.md
+12. search_filter_model.md
+13. README.md
+
+SERVICES DOCUMENTATION (2 files)
+Location: docs/services/
+
+1. auth_service.md
+2. README.md
+
+MAIN DOCUMENTATION (2 files)
+Location: docs/
+
+1. README.md
+2. INDEX.md
+3. FILE_LIST.txt (this file)
+
+TOTAL: 17 documentation files created
+
+HOW TO VIEW:
+============
+1. Open your IDE (VS Code/Cursor)
+2. Navigate to: D:\stitchhub2\docs\models\
+3. All .md files should be visible
+4. If not visible, press F5 to refresh or restart IDE
+
+VERIFICATION:
+=============
+All files have been verified and exist in the correct location.
+You can verify by:
+- Opening File Explorer and navigating to docs\models\
+- Using terminal: dir docs\models\*.md
+- Opening any file in a text editor
+

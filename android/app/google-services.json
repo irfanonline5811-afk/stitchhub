@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70567372516",
+    "project_id": "pro-stitch",
+    "storage_bucket": "pro-stitch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70567372516:android:7f681c7f8230ef5b4faef1",
+        "android_client_info": {
+          "package_name": "com.example.stitchhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlXTMw0YyXvW-wLQ2XY4h4FQ0_Db8QIYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+{
+  // File associations for better syntax highlighting
+  "files.associations": {
+    "*.dart": "dart",
+    "*.yaml": "yaml",
+    "*.json": "json"
+  },
+  
+  // File explorer settings
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "*.dart": "${capture}.g.dart, ${capture}.freezed.dart"
+  },
+  
+  // Dart specific settings
+  "dart.enableSdkFormatter": true,
+  "dart.lineLength": 80
+}
+
